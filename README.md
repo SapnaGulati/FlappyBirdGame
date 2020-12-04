@@ -21,3 +21,6 @@ Scores will get updated when the bird will cross the pipes.
 If bird cross one pipe, scores will get increased by 1.
 If bird strikes & game will be over, the scores will reset to 0.
 Score board will be displayed on the game screen.
+
+# Languages Used:
+Python
