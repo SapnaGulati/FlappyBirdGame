@@ -1,5 +1,5 @@
 # FlappyBirdGame
-It's a game which is developed using python language of a bird which is flapping in between the pipes and will die when strikes with the upper and lower piper or the upper and lower edge of the screen.
+Flappy Bird is a game which is developed using python language of a bird which is flapping in between the pipes and will die when strikes with the upper and lower piper or the upper and lower edge of the screen.
 
 # Intoduction:
 Flappy bird game is fully python based. 
