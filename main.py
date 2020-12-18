@@ -49,13 +49,13 @@ def mainGame():
     newPipe1 = getRandomPipe()
     newPipe2 = getRandomPipe()
 
-    # my list of upper pipes
+    # list of upper pipes
     upperPipes = [
         {'x': SCREENWIDTH+200, 'y': newPipe1[0]['y']},
         {'x': SCREENWIDTH+200+(SCREENWIDTH/2), 'y': newPipe2[0]['y']},
     ]
 
-    # my list of lower pipes
+    # list of lower pipes
     lowerPipes = [
         {'x': SCREENWIDTH+200, 'y': newPipe1[1]['y']},
         {'x': SCREENWIDTH+200+(SCREENWIDTH/2), 'y': newPipe2[1]['y']},
